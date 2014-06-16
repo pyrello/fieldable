@@ -1,0 +1,5 @@
+{
+    "name": "pyrello/fieldable",
+    "description": "A set of classes for adding fields to models",
+    "keywords": ["fields"],
+}
